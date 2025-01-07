@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "canvas": "^3.0.1",
+    "discord.js": "^14.17.2",
     "dotenv": "^16.4.7"
   }
 }
